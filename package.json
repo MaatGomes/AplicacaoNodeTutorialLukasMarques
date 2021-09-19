@@ -4,7 +4,7 @@
   "description": "\"aplicativo da aula\"",
   "main": "app.js",
   "scripts": {
-    "test": "test:ci"
+    "test": "node app.js"
   },
   "repository": {
     "type": "git",
